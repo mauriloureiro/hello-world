@@ -1,4 +1,11 @@
 # hello-world
-Initializing
-Finishin...
-Done!
+
+#Initializing
+Getting there
+
+#Finishin
+Or not
+
+#Done!
+
+
